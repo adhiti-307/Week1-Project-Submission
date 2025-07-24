@@ -1,2 +1,2 @@
-# Week1-Project-Submission
-Week1 Project Submission for GHG_Emission_Prediction.
+# Week2-Project-Submission
+Week2 Project Submission for GHG_Emission_Prediction.
